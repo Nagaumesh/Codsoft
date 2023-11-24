@@ -1,18 +1,22 @@
-## Getting Started
+## Codesoft
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the CODSOFT Internship Java Programming Codes repository! This repository contains a collection of Java programming tasks and challenges provided by CODSOFT for the internship program.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## contents of the depository
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+TASK-1: THE NUMBER GAME
+TASK-2: STUDENT GRADE CALCULATOR
+TASK-3: ATM INTERFACE
+TASK-4: QUIZ APPLICATIO WITH TIMER
+TASK-5: STUDENT COURSE REGISTRATION SYSTEM
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## GET SOCIAL WITH ME 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Gmail: umesh.kamisetty@gmail.com
 
-## Dependency Management
+## Linkedin: https://www.linkedin.com/in/nagaumesh-kamisetty-462337220/
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## instagram: https://instagram.com/umesh.kamisetty?igshid=M2RkZGJiMzhjOQ==
+
+
