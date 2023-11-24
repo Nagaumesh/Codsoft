@@ -20,7 +20,7 @@ public class Task3 {
                     int amount = sc.nextInt();
                     Withdraw(amount);
                 } else if (action == 3) {
-                    System.out.println("Your balance is: "+checkbalance());
+                    System.out.println("Your balance is: " + checkbalance());
                 } else {
                     System.out.println("Error");
                 }
@@ -51,7 +51,6 @@ public class Task3 {
             return this.balance;
         }
     }
-
 
     public static void main(String[] args) {
         ATM umesh = new ATM();

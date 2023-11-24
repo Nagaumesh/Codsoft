@@ -88,7 +88,8 @@ public class Task5 {
     public static void main(String[] args) {
         Task5 registrationSystem = new Task5();
         // Adding sample courses
-        Course course1 = new Course("CS001", "Introduction to Computer Science", "Basic concepts of programming", 30, "Mon/Wed/Fri 9-11 AM");
+        Course course1 = new Course("CS001", "Introduction to Computer Science", "Basic concepts of programming", 30,
+                "Mon/Wed/Fri 9-11 AM");
         Course course2 = new Course("MATH001", "Calculus", "Fundamental principles of calculus", 25, "Tue/Thu 1-3 PM");
         registrationSystem.addCourse(course1);
         registrationSystem.addCourse(course2);

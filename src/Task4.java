@@ -21,9 +21,14 @@ public class Task4 {
     private static boolean isAnswerSubmitted = false;
 
     private static QuizQuestion[] questions = {
-        new QuizQuestion("What is the largest state in India by area?", new String[]{"A. Maharashtra", "B. Rajasthan", "C. Uttar Pradesh", "D. Madhya Pradesh"}, 'B'),
-        new QuizQuestion("Which river is known as the 'Ganga of the South' in India?", new String[]{"A. Godavari", "B. Yamuna", "C. Narmada", "D. Kaveri"}, 'A'),
-        new QuizQuestion("Who was the first Prime Minister of India?", new String[]{"A. Jawaharlal Nehru", "B. Mahatma Gandhi", "C. Indira Gandhi", "D. Rajendra Prasad"}, 'A')
+            new QuizQuestion("What is the largest state in India by area?",
+                    new String[] { "A. Maharashtra", "B. Rajasthan", "C. Uttar Pradesh", "D. Madhya Pradesh" }, 'B'),
+            new QuizQuestion("Which river is known as the 'Ganga of the South' in India?",
+                    new String[] { "A. Godavari", "B. Yamuna", "C. Narmada", "D. Kaveri" }, 'A'),
+            new QuizQuestion("Who was the first Prime Minister of India?",
+                    new String[] { "A. Jawaharlal Nehru", "B. Mahatma Gandhi", "C. Indira Gandhi",
+                            "D. Rajendra Prasad" },
+                    'A')
     };
 
     public static void main(String[] args) {
