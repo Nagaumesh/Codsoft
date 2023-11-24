@@ -6,9 +6,13 @@ Welcome to the CODSOFT Internship Java Programming Codes repository! This reposi
 ## contents of the depository
 
 TASK-1: THE NUMBER GAME
+
 TASK-2: STUDENT GRADE CALCULATOR
+
 TASK-3: ATM INTERFACE
+
 TASK-4: QUIZ APPLICATIO WITH TIMER
+
 TASK-5: STUDENT COURSE REGISTRATION SYSTEM
 
 ## GET SOCIAL WITH ME 
